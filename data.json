@@ -1,13 +1,13 @@
 {
 	"products": [{
-		"id": 123,
-		"name": "Product 1",
-		"price": 12.30,
-		"desc": "Product 1"
+		"id": 1,
+		"name": "Heineken",
+		"logo": "image1.png",
+		"desc": "Empresa holandesa que ha comprado marcas mexicanas y hoy es un gran productor."
 	}, {
-		"id": 124,
-		"name": "Product 2",
-		"price": 1232.30,
-		"desc": "Product21"
+		"id": 2,
+		"name": "Amstel",
+		"logo": "image2.png",
+		"desc": "Con sus 21 marcas, Amstel Beer Co Hb es una de las principales exportadores hacia Asia."
 	}]
 }
